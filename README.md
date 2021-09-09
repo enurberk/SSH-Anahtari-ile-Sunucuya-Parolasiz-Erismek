@@ -1,4 +1,4 @@
-## SSH-Anahtari-ile-Sunucuya-Parolasiz-Erismek
+## SSH Anahtarı ile Sunucuya Parolasız Erişmek
 
 > SSH anahtarı ile sunucuya paralarız erişmek için yapılması gereken ön adımları buradaki
 [1](https://docs.liman.dev/sistem-yonetimi/kurulum/kurulum-sonrasi-temel-ayarlar/uzak-sunucuda-ssh-paketinin-kurulmasi), 
