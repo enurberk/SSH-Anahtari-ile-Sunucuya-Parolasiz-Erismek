@@ -7,13 +7,14 @@
 linklerden takip ederek tamamlayabilirsiniz.
 
 Kişisel bilgisayarınız üzerinde (Windows ya da bir GNU/Linux dağıtımı), 
-> *Ben Windows üzerinde powershell uygulamasını kullandım*
+> *Ben Windows üzerinde powershell uygulamasını kullandım.*
 
 ![1](https://user-images.githubusercontent.com/37108233/132659940-d837181e-01dc-48a2-96d0-8b4e21d3e960.PNG)
 
 `ssh-keygen`
 
 komutu ile ssh anahtarı oluşturulabilir. SSH anahtarını bir parola ile oluşturmak mümkündür ancak parola konulmazsa gönderilen sunuculara parolasız erişim imkanı tanır.
+>*Enter'a basarak geçebilriz.*
 
 ```
 Enter file in which to save the key (C:\Users\username/.ssh/id_rsa):
