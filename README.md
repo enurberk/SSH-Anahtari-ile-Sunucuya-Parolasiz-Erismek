@@ -62,3 +62,5 @@ Windows için de [konfigürasyon](https://docs.liman.dev/sistem-yonetimi/kurulum
 `ssh limanmys`
 
 Bu adımdan sonra artık sunucularınıza parolasız erişmeniz mümkün olacaktır. Erişmenin yanı sıra [VSCode SSH](https://dev.to/liman/eklenti-gelistirme-ortami-kurulumu-3ofm) eklentisini de parolasız kullanabilirsiniz.
+
+> Yazının orjinali için [linke](https://docs.liman.dev/sistem-yonetimi/kurulum/kurulum-sonrasi-temel-ayarlar/ssh-anahtari-ile-sunucuya-parolasiz-erismek) tıklayın.
